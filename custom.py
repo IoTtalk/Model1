@@ -1,6 +1,6 @@
 import DAN
 
-ServerIP = 'https://farm.iottalk.tw' 
+ServerIP = 'https://DomainName' 
 Comm_interval = 15 # unit:second
 
 def profile_init():
