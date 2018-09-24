@@ -1,0 +1,1 @@
+DAI具備counter紀錄，是特殊的
